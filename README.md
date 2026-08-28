@@ -21,3 +21,11 @@ https://www.linkedin.com/in/josiejosephny/
 
 ## Other skills
 Trilingual : English, French, Haitian Creole
+
+## Targeted Roles
+Data Analyst
+Data engineer
+Database Administrator
+
+## My Resume
+https://drive.google.com/file/d/1sLrejZIn6IFbShsqxpIN7aWPs59BgcTc/view?usp=sharing
